@@ -35,8 +35,8 @@
             aria-live="polite"
             hidden
           ></div>
-          <div id="globe-legend" aria-label="Legend" hidden></div>
         </div>
+        <div id="globe-legend" aria-label="Legend" hidden></div>
       </section>
     </main>
     <script type="module">
@@ -412,7 +412,7 @@
       const animateGlobe = () => {
         requestAnimationFrame(animateGlobe);
         if (!userIsInteracting) {
-          globeGroup.rotation.y += 0.00035;
+          globeGroup.rotation.y += 0.00105;
         }
         controls.update();
         globeRenderer.render(globeScene, globeCamera);
