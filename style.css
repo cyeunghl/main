@@ -47,7 +47,7 @@ a:focus-visible {
 
 .page.globe-page {
   display: block;
-  max-width: 1200px;
+  max-width: 900px;
 }
 
 .visual-column,
@@ -65,7 +65,7 @@ a:focus-visible {
   border-radius: 32px;
   border: 1px solid rgba(255, 255, 255, 0.6);
   box-shadow: 0 22px 55px rgba(15, 15, 15, 0.12);
-  min-height: min(80vh, 640px);
+  min-height: min(60vh, 480px);
   padding: clamp(0.75rem, 2vw, 1.25rem);
   display: flex;
   align-items: stretch;
@@ -113,9 +113,8 @@ a:focus-visible {
 
 /* ---------- Globe Legend ---------- */
 #globe-legend {
-  position: absolute;
-  left: clamp(0.75rem, 3vw, 1rem);
-  bottom: clamp(0.75rem, 3vw, 1rem);
+  position: relative;
+  margin-top: clamp(1rem, 2vw, 1.5rem);
   background: rgba(246, 243, 238, 0.9);
   border-radius: 999px;
   border: 1px solid rgba(30, 30, 30, 0.08);
@@ -125,6 +124,7 @@ a:focus-visible {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  width: fit-content;
 }
 
 #globe-legend .legend-item {
