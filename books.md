@@ -1,4 +1,4 @@
-# Books
+<img width="308" height="475" alt="image" src="https://github.com/user-attachments/assets/36cacd5c-c925-4d77-833f-83c200a33644" /># Books
 
 ## Book 1
 - Title: When Breath Becomes Air
@@ -77,3 +77,22 @@
 - Author: Sharon Cameron
 - Goodreads: https://www.goodreads.com/book/show/44575063-the-light-in-hidden-places?from_search=true&from_srp=true&qid=v6lmoaNU5n&rank=1
 - Image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1560606595i/44575063.jpg
+
+- ## Book 6
+- Title: The Sabbath
+- Author: Abraham Joshua Heschel
+- Goodreads: [https://www.goodreads.com/book/show/44575063-the-light-in-hidden-places?from_search=true&from_srp=true&qid=v6lmoaNU5n&rank=1](https://www.goodreads.com/book/show/345500.The_Sabbath)
+- Image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1417605510i/345500.jpg
+
+- ## Book 6
+- Title: The Genome War
+- Author: James Shreeve
+- Goodreads: https://www.goodreads.com/book/show/4595.The_Genome_War
+- Image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388196222i/4595.jpg
+
+  - ## Book 6
+- Title: Talking to Strangers
+- Author: Malcolm Gladwell
+- Goodreads: [https://www.goodreads.com/book/show/4595.The_Genome_War](https://www.goodreads.com/book/show/43848929-talking-to-strangers)
+- Image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1549393502i/43848929.jpg
+
