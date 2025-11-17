@@ -25,7 +25,7 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./dist   # <-- replace with your actual output directory
+          path: .   # <-- replace with your actual output directory
           
   deploy:
     needs: build
